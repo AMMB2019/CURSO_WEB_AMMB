@@ -24,7 +24,7 @@ CONFIGURACION DE GIT
   - De local a remoto
      git init <carpeta en la que estamos trabajando> hacerlo en una carpeta antes de la que queremos
     utilizar
-    - Hacemos un primer comit
+    - Hacemos un primer comit y sincronizamos para que se publique
     - Comprobamos el commit
       git log
     - Crear un repositorio vacio en Github
@@ -34,5 +34,5 @@ CONFIGURACION DE GIT
 
  - De remoto a local
    - Clonamos el repositorio
-     git clone <repositor<.git  jjjj
+     git clone <repositor<.git
 
