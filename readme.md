@@ -34,5 +34,5 @@ CONFIGURACION DE GIT
 
  - De remoto a local
    - Clonamos el repositorio
-     git clone <repositor<.git
+     git clone <repositor<.git jhkjhk
 
