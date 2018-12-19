@@ -1,5 +1,5 @@
 {
-  "name": "CURSO_WEB_AMMB",
+  "name": "curso_web_ammb",
   "version": "1.0.0",
   "description": "- Navegador: Chrome, Firefox, Edge, Sa\r - Editor de código: Visual Studio Code\r     <https://code.visualstudio.com/>\r - NodeJS /  npm\r     <https://nodejs.org/es/>\r - Servidor Web de desarrollo: http-server \r     nmp install -g http-server (en pantalla de sistema)\r - Git\r    <https://git-scm.com/>",
   "main": "index.js",
@@ -11,10 +11,12 @@
     "url": "git+https://github.com/AMMB2019/CURSO_WEB_AMMB.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Yo",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AMMB2019/CURSO_WEB_AMMB/issues"
   },
-  "homepage": "https://github.com/AMMB2019/CURSO_WEB_AMMB#readme"
+  "homepage": "https://github.com/AMMB2019/CURSO_WEB_AMMB#readme",
+  "dependencies": {},
+  "devDependencies": {}
 }
